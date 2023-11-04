@@ -6,5 +6,5 @@ app = Flask(__name__)
 @app.route("/")
 
 def hello():
-    return "Hello World, yeah!!!"
+    return "This is a test domain made by EmPya"
   
